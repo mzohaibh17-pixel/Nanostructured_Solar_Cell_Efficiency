@@ -58,7 +58,7 @@ This project provides a hands-on exploration of solar cell nanostructuring and i
 - Plots:
   - Efficiency vs Nanopillar Height (for each diameter)
   - Efficiency vs Nanopillar Diameter (for each height)
-- Identifies the **best nanopillar configuration** automatically
+- Identifies the best nanopillar configuration automatically
 - Saves all plots automatically in the `plots/` folder
 - Saves simulation results as CSV in `csvs/`
 - Interactive exploration with Jupyter notebook in `simulations/`
