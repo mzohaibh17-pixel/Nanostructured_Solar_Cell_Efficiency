@@ -19,8 +19,8 @@ Nanostructured_Solar_Cell_Efficiency/
 ├── plots/
 ├── csvs/
 ├── simulations/
-│      ├── Nanostructured_Solar_Cell_Efficiency.ipynb
-│      └── Nanostructured_Solar_Cell_Efficiency.py
+│   ├── Nanostructured_Solar_Cell_Efficiency.ipynb
+│   └── Nanostructured_Solar_Cell_Efficiency.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
